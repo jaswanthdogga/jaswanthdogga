@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaswanthdogga
-- 🧾 This is my resume Link- 
+- 🧾 This is my resume Link- https://shorturl.at/gilxO
 - 👀 I’m interested in ... Data Analysis
 - 🌱 I’m currently learning ... PowerBI, SQL, Excel, Python
 - 💞️ I’m looking to collaborate on ... GitHub, PowerBI, VSCode, 
